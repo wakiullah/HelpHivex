@@ -5,7 +5,7 @@ export default function Header() {
     <header className="py-6 px-6 md:px-12 lg:px-24 flex items-center justify-between">
       <div className="flex items-center gap-3">
         <div className="w-9 h-9 rounded-full bg-[var(--color-primary)] flex items-center justify-center text-white font-bold">
-          FB
+          FBA
         </div>
         <span className="font-semibold text-lg">FundBridge</span>
       </div>
